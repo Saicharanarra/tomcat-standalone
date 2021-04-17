@@ -1,4 +1,4 @@
 ---
-NEXUS_IP: 52.14.0.32
+NEXUS_IP: 3.143.235.220
 NEXUS_USER: admin
 nexus_port: 8081
