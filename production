@@ -2,5 +2,5 @@
 web1 ansible_host=18.221.231.1 ansible_ssh_private_key_file=/etc/ansible/mykey.pem ansible_user=ec2-user
 
 [appservers]
-app1 ansible_host=18.216.2.123 ansible_user=ec2-user
-app2 ansible_host=18.221.231.1 ansible_user=ec2-user
+app1 ansible_host=18.219.48.223 ansible_user=ec2-user
+app2 ansible_host=3.141.100.186 ansible_user=ec2-user
